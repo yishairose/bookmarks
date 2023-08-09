@@ -157,7 +157,7 @@ h3 {
     border: 2px solid var(--primary-color);
     border-radius: var(--border-radius);
     display: block;
-    outline: var(--variant-color);
+    outline-color: var(--secondary-background);
 
 }
 
